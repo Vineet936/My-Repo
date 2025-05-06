@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOMENT**
 
-- 📫 How to reach me **vinitsainigovindpur@gmail.com**
+- 📫 How to reach me **vineetkumar72485@gmail.com**
 
 - ⚡ Fun fact **I am funny😘**
 
