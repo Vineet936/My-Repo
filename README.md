@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif"/>
 
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOMENT**
+- 🌱 I’m currently learning **Software Developer**
 
 - 📫 How to reach me **vineetkumar72485@gmail.com**
 
