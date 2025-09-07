@@ -21,10 +21,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
 
-<!-- SQL Server -->
-<a href="https://learn.microsoft.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoft sql server" width="40" height="40"/>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet936&show_icons=true&locale=en&layout=compact" alt="vineet936" /></p>
 
